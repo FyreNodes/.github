@@ -1,2 +1,2 @@
-# .github
-GitHub Org Config
+# GitHub Config
+GitHub Organization Config Repository
